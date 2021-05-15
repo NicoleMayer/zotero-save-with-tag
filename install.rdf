@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:name>Zotero Save with Tag</em:name>
+    <em:description>A Zotero plugin that adds the tag when saving a new item.</em:description> 
+    <em:id>nicolemeimeibest@gmail.com</em:id>
+    <em:creator>Hanmei Yang</em:creator>
+    <em:version>0.1.0</em:version>
+    <em:homepageURL>https://github.com/NicoleMayer/zotero-save-with-tag</em:homepageURL>
+    <em:updateURL>https://raw.githubusercontent.com/NicoleMayer/zotero-save-with-tag/master/install.rdf</em:updateURL>
+    <em:type>2</em:type>
+    <em:targetApplication>
+      <Description>
+        <em:id>zotero@chnm.gmu.edu</em:id>
+        <em:minVersion>5.0.79</em:minVersion>
+        <em:maxVersion>5.0.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>

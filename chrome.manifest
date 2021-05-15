@@ -1,0 +1,6 @@
+content	savewithtag					chrome/content/savewithtag/
+skin	savewithtag	default			chrome/skin/default/savewithtag/
+
+overlay	chrome://zotero/content/zoteroPane.xul chrome://savewithtag/content/overlay.xul
+
+locale savewithtag en-US chrome/locale/en-US/
