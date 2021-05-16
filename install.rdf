@@ -5,7 +5,7 @@
     <em:description>A Zotero plugin that adds the tag when saving a new item.</em:description> 
     <em:id>nicolemeimeibest@gmail.com</em:id>
     <em:creator>Hanmei Yang</em:creator>
-    <em:version>0.1.0</em:version>
+    <em:version>0.1.1</em:version>
     <em:homepageURL>https://github.com/NicoleMayer/zotero-save-with-tag</em:homepageURL>
     <em:updateURL>https://raw.githubusercontent.com/NicoleMayer/zotero-save-with-tag/master/install.rdf</em:updateURL>
     <em:type>2</em:type>

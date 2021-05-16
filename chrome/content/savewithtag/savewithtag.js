@@ -113,5 +113,6 @@ Zotero.SaveWithTag = new function () {
         try { item.saveTx(); } catch (e) {
             Zotero.logError(e);
         }
+        this.resetState('initial');
     };
 };
